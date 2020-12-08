@@ -3,7 +3,7 @@ Contributors: wppool, azizultex, princeahmed, foysalremon, emrikol, danieltj, mu
 Tags: markdown, editor, dashboard, dark, markdown editor
 Requires at least: 5.0.0
 Tested up to: 5.5.3
-Stable tag: 4.0.1
+Stable tag: 4.0.2
 Requires PHP: 5.6
 License: GNU GPL v2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -20,6 +20,7 @@ WP Markdown Editor will also darken the colors of your admin dashboard making it
 
 Use  WP Markdown Editor plugin to create a stunning dark version for your WordPress admin dashboard. Dark Mode works automatically as per their preferred operating system preference.
 
+[youtube https://youtu.be/PqIX-aOTO6c]
 
 = WP Markdown Editor (Formerly Dark Mode) Features =
 * **Typography Settings** - You can change the typography of your editor screen, using four different fonts, and controls for font size, line height, line width, and paragraph spacing.
